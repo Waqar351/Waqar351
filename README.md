@@ -1,6 +1,6 @@
 ---
 
-# 👋 Waqar Hassan | Machine Learning & AI Enthusiast
+# 👋 Waqar Hassan | PhD. | Data Scientist |Machine Learning & AI Enthusiast
 
 Welcome to my GitHub profile! I'm **Waqar Hassan**, a passionate Machine Learning and Artificial Intelligence researcher with a focus on developing and applying cutting-edge algorithms to solve real-world problems. I have experience working with a wide range of AI technologies, including **Graph Neural Networks (GNNs)**, **Deep Learning**, **Large Language Models (LLMs)**, and **Recurrent Neural Networks (RNNs)**.
 
